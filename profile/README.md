@@ -15,4 +15,5 @@
 
 [Исходный код Open API Таро](https://github.com/Toad-Concern-Team-Naimix-Code/tarot-api)
 
-![Image alt](http://d.zaix.ru/JVwL.png)
+<img src="http://d.zaix.ru/JVwT.png" alt="Image 1" style="height: 500px; display: inline-block;">
+

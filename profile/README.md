@@ -15,5 +15,7 @@
 
 [Исходный код Open API Таро](https://github.com/Toad-Concern-Team-Naimix-Code/tarot-api)
 
+[Исходный код мобильного приложения](https://github.com/Toad-Concern-Team-Naimix-Code/tarot-api)
+
 <img src="http://d.zaix.ru/JVwT.png" alt="Image 1" style="height: 500px; display: inline-block;">
 

@@ -17,5 +17,7 @@
 
 [Исходный код мобильного приложения](https://github.com/Toad-Concern-Team-Naimix-Code/TarotApp)
 
+[Исходный код веб приложения](https://github.com/Toad-Concern-Team-Naimix-Code/tarot-angular)
+
 <img src="http://d.zaix.ru/JVwT.png" alt="Image 1" style="height: 500px; display: inline-block;">
 
